@@ -1,2 +1,2 @@
-this is trial
+print("this is trial")
 
