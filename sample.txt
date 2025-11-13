@@ -1,0 +1,2 @@
+This is a sample file to demonstrate file reading in python
+Have a good day!
